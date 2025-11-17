@@ -1,1 +1,3 @@
+from telebot.apihelper import API_URL
+
 API_KEY = "7886492664:AAH6M_8cCpgLoi9LTK2gVNuwuaM9jFajA14"
